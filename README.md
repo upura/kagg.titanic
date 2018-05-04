@@ -9,7 +9,7 @@ It contains the following processes, which are standard approach in Kaggle.
 The score: 0.90909 is archived through the above processes, which ranks top 1% in May 2018.  
 <img src="https://github.com/upura/kaggle.titanic/blob/img/img/score.PNG" alt="Score" title="ScoreImg">
 
-GitHub:
+GitHub:  
 https://github.com/upura/kaggle.titanic/blob/master/src/StandardApproach.ipynb
 
 Kernel:  
