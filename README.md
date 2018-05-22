@@ -7,7 +7,7 @@ It contains the following processes, which are standard approach in Kaggle.
 1. Grid Search CV
 
 GitHub:  
-https://github.com/upura/kaggle.titanic/blob/master/src/StandardApproach.ipynb
+https://github.com/upura/kaggle.titanic/blob/master/src/StandardApproachKNN.ipynb
 
 Kernel:  
 https://www.kaggle.com/sishihara/standard-approach-for-kaggle
